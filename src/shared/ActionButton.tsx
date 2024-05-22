@@ -1,7 +1,6 @@
 import { ReactNode } from "react";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 import { SelectedPage } from "./types";
-import { set } from "lodash";
 
 interface Props {
   children: ReactNode;
